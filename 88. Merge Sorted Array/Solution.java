@@ -30,6 +30,11 @@ Arrays.sort(nums1); (insertion sort then merge sort)
  * space complexity: 
  * - space complexity is O(1)becuase we do not allocate additional space beyond constants and what is supplied in the input 
  * 
+
+   *  technially O(n(log(n)) and O(m+n)(log(m+n)) aresaying the same thing just one is more specific 
+  and tells us there might be other things are happening in the probelm like adding 2 arrays together 
+  which may take more time. However, their time complexity graphs would be plotted the same 
+  */
  */
 
 
